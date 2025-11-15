@@ -9,8 +9,6 @@
 
 **Neural HandSense AI** is a cutting-edge real-time hand gesture and posture recognition system that leverages advanced computer vision and deep learning technologies. This web application provides an intuitive interface for human-computer interaction through sophisticated gesture detection and analysis.
 
-![Demo](https://via.placeholder.com/800x400/8A2BE2/FFFFFF?text=Neural+HandSense+AI+Demo)
-
 ## ✨ Features
 
 ### 🎯 Core Capabilities
@@ -325,7 +323,7 @@ If you find this project helpful, please give it a ⭐️ on GitHub!
 
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Dibyendu17122003/Advance-Posture-and-Finger-Detection-web-app/issues)
 - 💡 **Feature Requests**: [Feature Requests](https://github.com/Dibyendu17122003/Advance-Posture-and-Finger-Detection-web-app/issues/new?template=feature_request.md)
-- 📧 **Email**: [Contact Developer](mailto:dibyendu.karmahapatra@example.com)
+- 📧 **Email**: [Contact Developer](mailto:dibyendukarmahapatra@gmail.com)
 
 ---
 
