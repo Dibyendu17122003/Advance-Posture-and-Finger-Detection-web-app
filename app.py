@@ -1,14 +1,13 @@
-# app.py
-import streamlit as st # used for web app interface
-import cv2 # used for image processing
-import mediapipe as mp # used for hand and pose detection   
+import streamlit as st 
+import cv2 
+import mediapipe as mp    
 import numpy as np 
 import time
 import math 
 from collections import deque, Counter 
-from streamlit_webrtc import webrtc_streamer, VideoProcessorBase, RTCConfiguration # used for real-time video streaming
-import av # used for handling audio and video frames
-import asyncio # used for asynchronous programming
+from streamlit_webrtc import webrtc_streamer, VideoProcessorBase, RTCConfiguration 
+import av 
+import asyncio 
 
 
 st.set_page_config(
